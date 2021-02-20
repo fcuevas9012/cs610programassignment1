@@ -1,4 +1,4 @@
-# cs610programassignment1
+# Program Assignment 1
 
 Instructions
 Implement a queue data type. Then use it to simulate the evolution of waiting queues, by invoking several instances of the queue data type.
